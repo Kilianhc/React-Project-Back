@@ -371,7 +371,10 @@
       "year": 2014,
       "genre": "Aventura, Drama, Ciencia ficción",
       "image": "https://m.media-amazon.com/images/I/71RvbgwwxFL._AC_UF1000,1000_QL80_.jpg",
-      "rate": 8.6
+      "rate": 8.6,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
     },
     {
       "id": 24,
@@ -384,7 +387,10 @@
       "year": 1954,
       "genre": "Aventura, Drama",
       "image": "https://m.media-amazon.com/images/I/71Zb9pCs-iL._AC_UF894,1000_QL80_.jpg",
-      "rate": 8.6
+      "rate": 8.6,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
     },
     {
       "id": 25,
@@ -397,7 +403,10 @@
       "year": 2002,
       "genre": "Biografía, Drama, Música",
       "image": "https://m.media-amazon.com/images/I/41R9mgGiXDL.jpg",
-      "rate": 8.5
+      "rate": 8.5,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
     },
     {
       "id": 26,
@@ -410,7 +419,10 @@
       "year": 2012,
       "genre": "Acción, Aventura",
       "image": "https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/86/86/43/20154145.jpg",
-      "rate": 8.4
+      "rate": 8.4,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
     },
     {
       "id": 27,
@@ -423,7 +435,10 @@
       "year": 2019,
       "genre": "Comedia, Drama, Suspenso",
       "image": "https://m.media-amazon.com/images/I/716GvXDXB6L._AC_UF1000,1000_QL80_.jpg",
-      "rate": 8.5
+      "rate": 8.5,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
     },
     {
       "id": 28,
@@ -436,7 +451,10 @@
       "year": 2001,
       "genre": "Animación, Aventura, Familia",
       "image": "https://www.tuposter.com/pub/media/catalog/product/cache/71d04d62b2100522587d43c930e8a36b/p/o/poster_el_viaje_de_chiiro_poster_americano.png",
-      "rate": 8.6
+      "rate": 8.6,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
     },
     {
       "id": 29,
@@ -449,7 +467,10 @@
       "year": 1954,
       "genre": "Misterio, Suspenso",
       "image": "https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/70/36/50/20226878.jpg",
-      "rate": 8.5
+      "rate": 8.5,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
     },
     {
       "id": 30,
@@ -462,7 +483,10 @@
       "year": 1960,
       "genre": "Horror, Misterio, Suspenso",
       "image": "https://es.web.img3.acsta.net/r_1280_720/pictures/bzp/03/1603.jpg",
-      "rate": 8.5
+      "rate": 8.5,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
     },
     {
       "id": 31,
@@ -475,7 +499,10 @@
       "year": 1994,
       "genre": "Acción, Crimen, Drama",
       "image": "https://m.media-amazon.com/images/I/71G-19jX0qL._AC_UF894,1000_QL80_.jpg",
-      "rate": 8.5
+      "rate": 8.5,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
     },
     {
       "id": 32,
@@ -488,7 +515,10 @@
       "year": 1994,
       "genre": "Animación, Aventura, Drama",
       "image": "https://m.media-amazon.com/images/I/61jkTiX8NuL._AC_UF894,1000_QL80_.jpg",
-      "rate": 8.5
+      "rate": 8.5,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
     },
     {
       "id": 33,
@@ -501,7 +531,10 @@
       "year": 2000,
       "genre": "Acción, Aventura, Drama",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/81wZMK+j-PL._AC_UL495_SR435,495_.jpg",
-      "rate": 8.5
+      "rate": 8.5,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
     },
     {
       "id": 34,
@@ -514,7 +547,10 @@
       "year": 1940,
       "genre": "Comedia, Drama, Guerra",
       "image": "https://m.media-amazon.com/images/I/71SUYzCNh9L.jpg",
-      "rate": 8.5
+      "rate": 8.5,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
     },
     {
       "id": 35,
@@ -527,7 +563,10 @@
       "year": 2014,
       "genre": "Drama, Música",
       "image": "https://m.media-amazon.com/images/I/61bvIaw0pCL._AC_UF1000,1000_QL80_.jpg",
-      "rate": 8.5
+      "rate": 8.5,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
     },
     {
       "id": 36,
@@ -540,7 +579,10 @@
       "year": 1960,
       "genre": "Comedia, Drama, Romance",
       "image": "https://m.media-amazon.com/images/I/51N1q0uiemL._AC_UF894,1000_QL80_.jpg",
-      "rate": 8.5
+      "rate": 8.5,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
     },
     {
       "id": 37,
@@ -553,7 +595,10 @@
       "year": 1987,
       "genre": "Crimen, Drama, Suspenso",
       "image": "https://m.media-amazon.com/images/I/71FRGP7BKKL._AC_UF894,1000_QL80_.jpg",
-      "rate": 8.5
+      "rate": 8.5,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
     },
     {
       "id": 38,
@@ -566,7 +611,10 @@
       "year": 1980,
       "genre": "Drama, Horror",
       "image": "https://storage.googleapis.com/pod_public/750/130939.jpg",
-      "rate": 8.4
+      "rate": 8.4,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
     },
     {
       "id": 39,
@@ -579,7 +627,10 @@
       "year": 1971,
       "genre": "Crimen, Drama, Ciencia ficción",
       "image": "https://pics.filmaffinity.com/a_clockwork_orange-463192017-large.jpg",
-      "rate": 8.3
+      "rate": 8.3,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
     },
     {
       "id": 40,
@@ -592,7 +643,10 @@
       "year": 2001,
       "genre": "Comedia, Romance",
       "image": "https://m.media-amazon.com/images/I/715WUsZKz4L._AC_UF1000,1000_QL80_.jpg",
-      "rate": 8.3
+      "rate": 8.3,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
     },
     {
       "id": 41,
@@ -605,7 +659,10 @@
       "year": 1976,
       "genre": "Crimen, Drama",
       "image": "https://www.originalfilmart.com/cdn/shop/files/TaxiDriver_french_r2000_original_film_art_5000x.webp?v=1684448325",
-      "rate": 8.3
+      "rate": 8.3,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
     },
     {
       "id": 42,
@@ -618,7 +675,10 @@
       "year": 2006,
       "genre": "Drama, Fantasía, Guerra",
       "image": "https://es.web.img3.acsta.net/medias/nmedia/18/83/10/34/20063920.jpg",
-      "rate": 8.2
+      "rate": 8.2,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
     },
     {
       "id": 43,
@@ -631,7 +691,10 @@
       "year": 1998,
       "genre": "Comedia, Crimen",
       "image": "https://m.media-amazon.com/images/I/A1Le+AaKcPL.jpg",
-      "rate": 8.1
+      "rate": 8.1,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
     },
     {
       "id": 44,
@@ -644,7 +707,10 @@
       "year": 2005,
       "genre": "Crimen, Suspenso",
       "image": "https://m.media-amazon.com/images/I/51JDE+gBExL._AC_UF894,1000_QL80_.jpg",
-      "rate": 8
+      "rate": 8,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
     },
     {
       "id": 45,
@@ -657,7 +723,10 @@
       "year": 1999,
       "genre": "Drama, Misterio, Suspenso",
       "image": "https://m.media-amazon.com/images/I/71V3sV3UqmL._AC_UF894,1000_QL80_.jpg",
-      "rate": 8.1
+      "rate": 8.1,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
     },
     {
       "id": 46,
@@ -670,7 +739,10 @@
       "year": 2006,
       "genre": "Drama, Misterio, Suspenso",
       "image": "https://cartelesmix.es/cartelesdecine/wp-content/uploads/2018/05/trucofinal06001.jpg",
-      "rate": 8.5
+      "rate": 8.5,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
     },
     {
       "id": 47,
@@ -683,7 +755,10 @@
       "year": 2000,
       "genre": "Misterio, Suspenso",
       "image": "https://pics.filmaffinity.com/memento-523889784-large.jpg",
-      "rate": 8.4
+      "rate": 8.4,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
     },
     {
       "id": 48,
@@ -696,7 +771,10 @@
       "year": 2000,
       "genre": "Drama",
       "image": "https://m.media-amazon.com/images/I/51PY9b5hQGL._AC_UF894,1000_QL80_.jpg",
-      "rate": 8.3
+      "rate": 8.3,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
     }
   ]
 }
