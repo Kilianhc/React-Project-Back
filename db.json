@@ -355,7 +355,10 @@
       "year": 1997,
       "genre": "Comedia, Drama, Romance",
       "image": "https://m.media-amazon.com/images/I/91ZMLI4SVcL.jpg",
-      "rate": 8.6
+      "rate": 8.6,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
     },
     {
       "id": 23,
