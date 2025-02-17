@@ -1,0 +1,699 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Origen",
+      "director": "Christopher Nolan",
+      "mainActors": [
+        "Leonardo DiCaprio, ",
+        "Joseph Gordon-Levitt, ",
+        "Matt Hardy"
+      ],
+      "year": 2010,
+      "genre": "Sci-Fi",
+      "image":"https://m.media-amazon.com/images/I/91OiP43E2zL._AC_UF894,1000_QL80_.jpg",
+      "rate": 8.8,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
+    },
+    {
+      "id": 2,
+      "title": "Cadena Perpetua",
+      "director": "Frank Darabont",
+      "mainActors": [
+        "Tim Robbins, ",
+        "Morgan Freeman"
+      ],
+      "year": 1994,
+      "genre": "Drama",
+      "image": "https://m.media-amazon.com/images/I/91RaQEbnbGL.jpg",
+      "rate": 9.3,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
+    },
+    {
+      "id": 3,
+      "title": "El Padrino",
+      "director": "Francis Ford Coppola",
+      "mainActors": [
+        "Marlon Brando, ",
+        "Al Pacino"
+      ],
+      "year": 1972,
+      "genre": "Crime, Drama",
+      "image": "https://i.etsystatic.com/43710319/r/il/1fb162/6066629614/il_fullxfull.6066629614_s3fc.jpg",
+      "rate": 9.2,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
+    },
+    {
+      "id": 4,
+      "title": "El Caballero Oscuro",
+      "director": "Christopher Nolan",
+      "mainActors": [
+        "Christian Bale, ",
+        "Heath Ledger"
+      ],
+      "year": 2008,
+      "genre": "Action, Crime, Drama",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+      "rate": 9,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
+    },
+    {
+      "id": 5,
+      "title": "El Padrino, parte II",
+      "director": "Francis Ford Coppola",
+      "mainActors": [
+        "Al Pacino, ",
+        "Robert De Niro"
+      ],
+      "year": 1974,
+      "genre": "Crime, Drama",
+      "image": "https://i.etsystatic.com/43710319/r/il/23e2d4/6066632008/il_570xN.6066632008_pz9q.jpg",
+      "rate": 9,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
+    },
+    {
+      "id": 6,
+      "title": "12 Hombres sin Piedad",
+      "director": "Sidney Lumet",
+      "mainActors": [
+        "Henry Fonda, ",
+        "Lee J. Cobb"
+      ],
+      "year": 1957,
+      "genre": "Drama",
+      "image": "https://m.media-amazon.com/images/I/51CAVNyz25L._AC_UF1000,1000_QL80_.jpg",
+      "rate": 9,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
+    },
+    {
+      "id": 7,
+      "title": "La Lista de Schindler",
+      "director": "Steven Spielberg",
+      "mainActors": [
+        "Liam Neeson, ",
+        "Ralph Fiennes"
+      ],
+      "year": 1993,
+      "genre": "Biography, Drama, History",
+      "image": "https://m.media-amazon.com/images/I/61yoLZUJ5hL._AC_UF894,1000_QL80_.jpg",
+      "rate": 8.9,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
+    },
+    {
+      "id": 8,
+      "title": "El Señor de los Anillos: El Retorno del Rey",
+      "director": "Peter Jackson",
+      "mainActors": [
+        "Elijah Wood, ",
+        "Viggo Mortensen"
+      ],
+      "year": 2003,
+      "genre": "Action, Adventure, Drama",
+      "image": "https://m.media-amazon.com/images/I/71Xle4-8u+L._AC_UF894,1000_QL80_.jpg",
+      "rate": 8.9,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
+    },
+    {
+      "id": 9,
+      "title": "Pulp Fiction",
+      "director": "Quentin Tarantino",
+      "mainActors": [
+        "John Travolta, ",
+        "Uma Thurman"
+      ],
+      "year": 1994,
+      "genre": "Crime, Drama",
+      "image": "https://m.media-amazon.com/images/I/71mlgE7nUdL.jpg",
+      "rate": 8.9,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
+    },
+    {
+      "id": 10,
+      "title": "El Señor de los Anillos: La Comunidad del Anillo",
+      "director": "Peter Jackson",
+      "mainActors": [
+        "Elijah Wood, ",
+        "Ian McKellen"
+      ],
+      "year": 2001,
+      "genre": "Action, Adventure, Drama",
+      "image": "https://m.media-amazon.com/images/I/71FHn9dy+NL._AC_UF894,1000_QL80_.jpg",
+      "rate": 8.8,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
+    },
+    {
+      "id": 11,
+      "title": "El Bueno, el Malo y el Feo",
+      "director": "Sergio Leone",
+      "mainActors": [
+        "Clint Eastwood, ",
+        "Eli Wallach"
+      ],
+      "year": 1966,
+      "genre": "Western",
+      "image": "https://m.media-amazon.com/images/I/81SDzJW1BEL.jpg",
+      "rate": 8.8,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
+    },
+    {
+      "id": 12,
+      "title": "El señor de los anillos: Las dos torres",
+      "director": "Peter Jackson",
+      "mainActors": [
+        "Elijah Wood, ",
+        "Ian McKellen, ",
+        "Viggo Mortensen"
+      ],
+      "year": 2002,
+      "genre": "Aventura, Drama, Fantasía",
+      "image": "https://xl.movieposterdb.com/07_12/2002/167261/xl_167261_688b35b3.jpg",
+      "rate": 8.8,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
+    },
+    {
+      "id": 13,
+      "title": "Forrest Gump",
+      "director": "Robert Zemeckis",
+      "mainActors": [
+        "Tom Hanks, ",
+        "Robin Wright, ",
+        "Gary Sinise"
+      ],
+      "year": 1994,
+      "genre": "Drama, Romance",
+      "image": "https://m.media-amazon.com/images/I/618eUd8ERxL._AC_UF1000,1000_QL80_.jpg",
+      "rate": 8.8,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
+    },
+    {
+      "id": 14,
+      "title": "El club de la lucha",
+      "director": "David Fincher",
+      "mainActors": [
+        "Brad Pitt, ",
+        "Edward Norton, ",
+        "Meat Loaf"
+      ],
+      "year": 1999,
+      "genre": "Drama",
+      "image": "https://m.media-amazon.com/images/I/71UUUCm0qoL.jpg",
+      "rate": 8.8,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
+    },
+    {
+      "id": 15,
+      "title": "Star Wars: Episodio V - El Imperio contraataca",
+      "director": "Irvin Kershner",
+      "mainActors": [
+        "Mark Hamill, ",
+        "Harrison Ford, ",
+        "Carrie Fisher"
+      ],
+      "year": 1980,
+      "genre": "Acción, Aventura, Fantasía",
+      "image": "https://m.media-amazon.com/images/I/81+xiUu5TXL.jpg",
+      "rate": 8.7,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
+    },
+    {
+      "id": 16,
+      "title": "Matrix",
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "mainActors": [
+        "Keanu Reeves, ",
+        "Laurence Fishburne, ",
+        "Carrie-Anne Moss"
+      ],
+      "year": 1999,
+      "genre": "Acción, Ciencia ficción",
+      "image": "https://m.media-amazon.com/images/I/71x7df0yZdL._AC_UF894,1000_QL80_.jpg",
+      "rate": 8.7,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
+    },
+    {
+      "id": 17,
+      "title": "Uno de los nuestros",
+      "director": "Milos Forman",
+      "mainActors": [
+        "Jack Nicholson, ",
+        "Louise Fletcher, ",
+        "Michael Berryman"
+      ],
+      "year": 1975,
+      "genre": "Drama",
+      "image": "https://m.media-amazon.com/images/I/51vLLaqn8dL._AC_UF894,1000_QL80_.jpg",
+      "rate": 8.7,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
+    },
+    {
+      "id": 18,
+      "title": "Seven",
+      "director": "David Fincher",
+      "mainActors": [
+        "Morgan Freeman, ",
+        "Brad Pitt, ",
+        "Kevin Spacey"
+      ],
+      "year": 1995,
+      "genre": "Crimen, Drama, Misterio",
+      "image": "https://m.media-amazon.com/images/I/815VVAvdgDL._AC_UF894,1000_QL80_.jpg",
+      "rate": 8.6,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
+    },
+    {
+      "id": 19,
+      "title": "El Silencio de los Corderos",
+      "director": "Jonathan Demme",
+      "mainActors": [
+        "Jodie Foster, ",
+        "Anthony Hopkins"
+      ],
+      "year": 1991,
+      "genre": "Crimen, Drama, Suspenso",
+      "image": "https://m.media-amazon.com/images/I/A1ZJo47mGUL.jpg",
+      "rate": 8.6,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
+    },
+    {
+      "id": 20,
+      "title": "Ciudad de Dios",
+      "director": "Fernando Meirelles, Kátia Lund",
+      "mainActors": [
+        "Alexandre Rodrigues, ",
+        "Leandro Firmino"
+      ],
+      "year": 2002,
+      "genre": "Crimen, Drama",
+      "image": "https://pics.filmaffinity.com/cidade_de_deus-120825156-large.jpg",
+      "rate": 8.6,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
+    },
+    {
+      "id": 21,
+      "title": "Salvar al soldado Ryan",
+      "director": "Steven Spielberg",
+      "mainActors": [
+        "Tom Hanks, ",
+        "Matt Damon"
+      ],
+      "year": 1998,
+      "genre": "Drama, Guerra",
+      "image": "https://m.media-amazon.com/images/I/A1d4fD50-1L.jpg",
+      "rate": 8.6,
+      "isFavorite": false,
+      "isWatched": false,
+      "wantWatch": false
+    },
+    {
+      "id": 22,
+      "title": "La vida es bella",
+      "director": "Roberto Benigni",
+      "mainActors": [
+        "Roberto Benigni, ",
+        "Nicoletta Braschi"
+      ],
+      "year": 1997,
+      "genre": "Comedia, Drama, Romance",
+      "image": "https://m.media-amazon.com/images/I/91ZMLI4SVcL.jpg",
+      "rate": 8.6
+    },
+    {
+      "id": 23,
+      "title": "Interstellar",
+      "director": "Christopher Nolan",
+      "mainActors": [
+        "Matthew McConaughey, ",
+        "Anne Hathaway"
+      ],
+      "year": 2014,
+      "genre": "Aventura, Drama, Ciencia ficción",
+      "image": "https://m.media-amazon.com/images/I/71RvbgwwxFL._AC_UF1000,1000_QL80_.jpg",
+      "rate": 8.6
+    },
+    {
+      "id": 24,
+      "title": "Los siete samuráis",
+      "director": "Akira Kurosawa",
+      "mainActors": [
+        "Toshirô Mifune, ",
+        "Takashi Shimura"
+      ],
+      "year": 1954,
+      "genre": "Aventura, Drama",
+      "image": "https://m.media-amazon.com/images/I/71Zb9pCs-iL._AC_UF894,1000_QL80_.jpg",
+      "rate": 8.6
+    },
+    {
+      "id": 25,
+      "title": "El pianista",
+      "director": "Roman Polanski",
+      "mainActors": [
+        "Adrien Brody, ",
+        "Thomas Kretschmann"
+      ],
+      "year": 2002,
+      "genre": "Biografía, Drama, Música",
+      "image": "https://m.media-amazon.com/images/I/41R9mgGiXDL.jpg",
+      "rate": 8.5
+    },
+    {
+      "id": 26,
+      "title": "El caballero oscuro: La leyenda renace",
+      "director": "Christopher Nolan",
+      "mainActors": [
+        "Christian Bale, ",
+        "Tom Hardy"
+      ],
+      "year": 2012,
+      "genre": "Acción, Aventura",
+      "image": "https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/86/86/43/20154145.jpg",
+      "rate": 8.4
+    },
+    {
+      "id": 27,
+      "title": "Parásitos",
+      "director": "Bong Joon Ho",
+      "mainActors": [
+        "Kang-ho Song, ",
+        "Sun-kyun Lee"
+      ],
+      "year": 2019,
+      "genre": "Comedia, Drama, Suspenso",
+      "image": "https://m.media-amazon.com/images/I/716GvXDXB6L._AC_UF1000,1000_QL80_.jpg",
+      "rate": 8.5
+    },
+    {
+      "id": 28,
+      "title": "El viaje de Chihiro",
+      "director": "Hayao Miyazaki",
+      "mainActors": [
+        "Rumi Hiiragi, ",
+        "Miyu Irino"
+      ],
+      "year": 2001,
+      "genre": "Animación, Aventura, Familia",
+      "image": "https://www.tuposter.com/pub/media/catalog/product/cache/71d04d62b2100522587d43c930e8a36b/p/o/poster_el_viaje_de_chiiro_poster_americano.png",
+      "rate": 8.6
+    },
+    {
+      "id": 29,
+      "title": "La ventana indiscreta",
+      "director": "Alfred Hitchcock",
+      "mainActors": [
+        "James Stewart, ",
+        "Grace Kelly"
+      ],
+      "year": 1954,
+      "genre": "Misterio, Suspenso",
+      "image": "https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/70/36/50/20226878.jpg",
+      "rate": 8.5
+    },
+    {
+      "id": 30,
+      "title": "Psicosis",
+      "director": "Alfred Hitchcock",
+      "mainActors": [
+        "Anthony Perkins, ",
+        "Janet Leigh"
+      ],
+      "year": 1960,
+      "genre": "Horror, Misterio, Suspenso",
+      "image": "https://es.web.img3.acsta.net/r_1280_720/pictures/bzp/03/1603.jpg",
+      "rate": 8.5
+    },
+    {
+      "id": 31,
+      "title": "El profesional (Léon)",
+      "director": "Luc Besson",
+      "mainActors": [
+        "Jean Reno, ",
+        "Natalie Portman"
+      ],
+      "year": 1994,
+      "genre": "Acción, Crimen, Drama",
+      "image": "https://m.media-amazon.com/images/I/71G-19jX0qL._AC_UF894,1000_QL80_.jpg",
+      "rate": 8.5
+    },
+    {
+      "id": 32,
+      "title": "El rey león",
+      "director": "Roger Allers, Rob Minkoff",
+      "mainActors": [
+        "Matthew Broderick, ",
+        "Jeremy Irons"
+      ],
+      "year": 1994,
+      "genre": "Animación, Aventura, Drama",
+      "image": "https://m.media-amazon.com/images/I/61jkTiX8NuL._AC_UF894,1000_QL80_.jpg",
+      "rate": 8.5
+    },
+    {
+      "id": 33,
+      "title": "Gladiator",
+      "director": "Ridley Scott",
+      "mainActors": [
+        "Russell Crowe, ",
+        "Joaquin Phoenix"
+      ],
+      "year": 2000,
+      "genre": "Acción, Aventura, Drama",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/81wZMK+j-PL._AC_UL495_SR435,495_.jpg",
+      "rate": 8.5
+    },
+    {
+      "id": 34,
+      "title": "El gran dictador",
+      "director": "Charles Chaplin",
+      "mainActors": [
+        "Charles Chaplin, ",
+        "Paulette Goddard"
+      ],
+      "year": 1940,
+      "genre": "Comedia, Drama, Guerra",
+      "image": "https://m.media-amazon.com/images/I/71SUYzCNh9L.jpg",
+      "rate": 8.5
+    },
+    {
+      "id": 35,
+      "title": "Whiplash",
+      "director": "Damien Chazelle",
+      "mainActors": [
+        "Miles Teller, ",
+        "J.K. Simmons"
+      ],
+      "year": 2014,
+      "genre": "Drama, Música",
+      "image": "https://m.media-amazon.com/images/I/61bvIaw0pCL._AC_UF1000,1000_QL80_.jpg",
+      "rate": 8.5
+    },
+    {
+      "id": 36,
+      "title": "El apartamento",
+      "director": "Billy Wilder",
+      "mainActors": [
+        "Jack Lemmon, ",
+        "Shirley MacLaine"
+      ],
+      "year": 1960,
+      "genre": "Comedia, Drama, Romance",
+      "image": "https://m.media-amazon.com/images/I/51N1q0uiemL._AC_UF894,1000_QL80_.jpg",
+      "rate": 8.5
+    },
+    {
+      "id": 37,
+      "title": "Los intocables",
+      "director": "Brian De Palma",
+      "mainActors": [
+        "Kevin Costner, ",
+        "Sean Connery"
+      ],
+      "year": 1987,
+      "genre": "Crimen, Drama, Suspenso",
+      "image": "https://m.media-amazon.com/images/I/71FRGP7BKKL._AC_UF894,1000_QL80_.jpg",
+      "rate": 8.5
+    },
+    {
+      "id": 38,
+      "title": "El resplandor",
+      "director": "Stanley Kubrick",
+      "mainActors": [
+        "Jack Nicholson, ",
+        "Shelley Duvall"
+      ],
+      "year": 1980,
+      "genre": "Drama, Horror",
+      "image": "https://storage.googleapis.com/pod_public/750/130939.jpg",
+      "rate": 8.4
+    },
+    {
+      "id": 39,
+      "title": "La naranja mecánica",
+      "director": "Stanley Kubrick",
+      "mainActors": [
+        "Malcolm McDowell, ",
+        "Patrick Magee"
+      ],
+      "year": 1971,
+      "genre": "Crimen, Drama, Ciencia ficción",
+      "image": "https://pics.filmaffinity.com/a_clockwork_orange-463192017-large.jpg",
+      "rate": 8.3
+    },
+    {
+      "id": 40,
+      "title": "Amélie",
+      "director": "Jean-Pierre Jeunet",
+      "mainActors": [
+        "Audrey Tautou, ",
+        "Mathieu Kassovitz"
+      ],
+      "year": 2001,
+      "genre": "Comedia, Romance",
+      "image": "https://m.media-amazon.com/images/I/715WUsZKz4L._AC_UF1000,1000_QL80_.jpg",
+      "rate": 8.3
+    },
+    {
+      "id": 41,
+      "title": "Taxi Driver",
+      "director": "Martin Scorsese",
+      "mainActors": [
+        "Robert De Niro, ",
+        "Jodie Foster"
+      ],
+      "year": 1976,
+      "genre": "Crimen, Drama",
+      "image": "https://www.originalfilmart.com/cdn/shop/files/TaxiDriver_french_r2000_original_film_art_5000x.webp?v=1684448325",
+      "rate": 8.3
+    },
+    {
+      "id": 42,
+      "title": "El laberinto del fauno",
+      "director": "Guillermo del Toro",
+      "mainActors": [
+        "Ivana Baquero, ",
+        "Ariadna Gil"
+      ],
+      "year": 2006,
+      "genre": "Drama, Fantasía, Guerra",
+      "image": "https://es.web.img3.acsta.net/medias/nmedia/18/83/10/34/20063920.jpg",
+      "rate": 8.2
+    },
+    {
+      "id": 43,
+      "title": "El gran Lebowski",
+      "director": "Joel Coen, Ethan Coen",
+      "mainActors": [
+        "Jeff Bridges, ",
+        "John Goodman"
+      ],
+      "year": 1998,
+      "genre": "Comedia, Crimen",
+      "image": "https://m.media-amazon.com/images/I/A1Le+AaKcPL.jpg",
+      "rate": 8.1
+    },
+    {
+      "id": 44,
+      "title": "Sin City: Ciudad del pecado",
+      "director": "Frank Miller, Robert Rodriguez",
+      "mainActors": [
+        "Mickey Rourke, ",
+        "Clive Owen"
+      ],
+      "year": 2005,
+      "genre": "Crimen, Suspenso",
+      "image": "https://m.media-amazon.com/images/I/51JDE+gBExL._AC_UF894,1000_QL80_.jpg",
+      "rate": 8
+    },
+    {
+      "id": 45,
+      "title": "El sexto sentido",
+      "director": "M. Night Shyamalan",
+      "mainActors": [
+        "Bruce Willis, ",
+        "Haley Joel Osment"
+      ],
+      "year": 1999,
+      "genre": "Drama, Misterio, Suspenso",
+      "image": "https://m.media-amazon.com/images/I/71V3sV3UqmL._AC_UF894,1000_QL80_.jpg",
+      "rate": 8.1
+    },
+    {
+      "id": 46,
+      "title": "El truco final (El prestigio)",
+      "director": "Christopher Nolan",
+      "mainActors": [
+        "Christian Bale, ",
+        "Hugh Jackman"
+      ],
+      "year": 2006,
+      "genre": "Drama, Misterio, Suspenso",
+      "image": "https://cartelesmix.es/cartelesdecine/wp-content/uploads/2018/05/trucofinal06001.jpg",
+      "rate": 8.5
+    },
+    {
+      "id": 47,
+      "title": "Memento",
+      "director": "Christopher Nolan",
+      "mainActors": [
+        "Guy Pearce, ",
+        "Carrie-Anne Moss"
+      ],
+      "year": 2000,
+      "genre": "Misterio, Suspenso",
+      "image": "https://pics.filmaffinity.com/memento-523889784-large.jpg",
+      "rate": 8.4
+    },
+    {
+      "id": 48,
+      "title": "Requiem por un sueño",
+      "director": "Darren Aronofsky",
+      "mainActors": [
+        "Ellen Burstyn, ",
+        "Jared Leto"
+      ],
+      "year": 2000,
+      "genre": "Drama",
+      "image": "https://m.media-amazon.com/images/I/51PY9b5hQGL._AC_UF894,1000_QL80_.jpg",
+      "rate": 8.3
+    }
+  ]
+}
