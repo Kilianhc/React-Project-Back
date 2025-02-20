@@ -13,6 +13,7 @@
       "genre": "Sci-Fi",
       "image":"https://m.media-amazon.com/images/I/91OiP43E2zL._AC_UF894,1000_QL80_.jpg",
       "rate": 8.8,
+      "sinopsis": "Un ladrón especializado en infiltrarse en los sueños de las personas recibe la misión de implantar una idea en la mente de un magnate. Para lograrlo, forma un equipo de expertos en sueños. Sin embargo, su propio pasado amenaza con sabotear el plan.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -29,6 +30,7 @@
       "genre": "Drama",
       "image": "https://m.media-amazon.com/images/I/91RaQEbnbGL.jpg",
       "rate": 9.3,
+      "sinopsis": "Andy Dufresne, un banquero acusado injustamente de asesinato, es enviado a la prisión de Shawshank. A lo largo de los años, forja una amistad con Red y planea una audaz fuga. Una historia de esperanza, resistencia y redención.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -45,6 +47,7 @@
       "genre": "Crime, Drama",
       "image": "https://i.etsystatic.com/43710319/r/il/1fb162/6066629614/il_fullxfull.6066629614_s3fc.jpg",
       "rate": 9.2,
+      "sinopsis": "La familia Corleone, una de las más poderosas de la mafia, se enfrenta a una guerra entre clanes. Michael, el hijo menor del patriarca Vito Corleone, se ve arrastrado al mundo del crimen. Poco a poco, se convierte en el nuevo líder de la familia.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -61,6 +64,7 @@
       "genre": "Action, Crime, Drama",
       "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
       "rate": 9,
+      "sinopsis": "Batman enfrenta al Joker, un anárquico criminal que siembra el caos en Gotham. Mientras el fiscal Harvey Dent lucha contra el crimen, su destino toma un giro trágico. Batman debe tomar decisiones difíciles para proteger la ciudad.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -77,6 +81,7 @@
       "genre": "Crime, Drama",
       "image": "https://i.etsystatic.com/43710319/r/il/23e2d4/6066632008/il_570xN.6066632008_pz9q.jpg",
       "rate": 9,
+      "sinopsis": "Se exploran los orígenes de Vito Corleone y el ascenso de su imperio criminal. Paralelamente, Michael, ahora líder de la familia, lucha por mantener su poder. La traición y la ambición lo llevan a un destino sombrío.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -93,6 +98,7 @@
       "genre": "Drama",
       "image": "https://m.media-amazon.com/images/I/51CAVNyz25L._AC_UF1000,1000_QL80_.jpg",
       "rate": 9,
+      "sinopsis": "Un jurado debe decidir el destino de un joven acusado de asesinato. Aunque al inicio casi todos lo creen culpable, un hombre siembra la duda. A medida que discuten, las emociones y prejuicios salen a la luz.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -109,6 +115,7 @@
       "genre": "Drama",
       "image": "https://m.media-amazon.com/images/I/61yoLZUJ5hL._AC_UF894,1000_QL80_.jpg",
       "rate": 8.9,
+      "sinopsis": "Oskar Schindler, un empresario alemán, usa su fábrica para salvar a más de mil judíos del Holocausto. Al principio motivado por el dinero, poco a poco cambia su perspectiva. Su historia es un testimonio de humanidad en tiempos oscuros.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -125,6 +132,7 @@
       "genre": "Action, Adventure, Drama",
       "image": "https://m.media-amazon.com/images/I/71Xle4-8u+L._AC_UF894,1000_QL80_.jpg",
       "rate": 8.9,
+      "sinopsis": "Frodo y Sam llegan a Mordor para destruir el Anillo Único, mientras Aragorn lidera la batalla final contra Sauron. La guerra por la Tierra Media alcanza su clímax. La amistad y la valentía definirán el destino de todos.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -141,6 +149,7 @@
       "genre": "Crime, Drama",
       "image": "https://m.media-amazon.com/images/I/71mlgE7nUdL.jpg",
       "rate": 8.9,
+      "sinopsis": "Varias historias de criminales y asesinos a sueldo se entrelazan en Los Ángeles. Jules y Vincent, dos sicarios, enfrentan situaciones absurdas y filosóficas. La violencia, el humor negro y los giros inesperados marcan esta obra de Tarantino.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -157,6 +166,7 @@
       "genre": "Action, Adventure, Drama",
       "image": "https://m.media-amazon.com/images/I/71FHn9dy+NL._AC_UF894,1000_QL80_.jpg",
       "rate": 8.8,
+      "sinopsis": "Frodo Bolson emprende un viaje para destruir el Anillo Único antes de que caiga en manos de Sauron. Acompañado por una comunidad de valientes aliados, enfrenta innumerables peligros. La hermandad será puesta a prueba en su misión épica.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -173,6 +183,7 @@
       "genre": "Western",
       "image": "https://m.media-amazon.com/images/I/81SDzJW1BEL.jpg",
       "rate": 8.8,
+      "sinopsis": "Tres pistoleros buscan un tesoro escondido en plena Guerra Civil estadounidense. Cada uno tiene sus propios intereses y traiciones. Un épico duelo final decidirá quién se queda con el oro.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -190,6 +201,7 @@
       "genre": "Adventure, Drama",
       "image": "https://xl.movieposterdb.com/07_12/2002/167261/xl_167261_688b35b3.jpg",
       "rate": 8.8,
+      "sinopsis": "Frodo y Sam avanzan hacia Mordor con la ayuda de Gollum. Mientras tanto, Aragorn y sus aliados defienden Rohan en la épica batalla del Abismo de Helm. La guerra por la Tierra Media se intensifica.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -207,6 +219,7 @@
       "genre": "Drama, Romance",
       "image": "https://m.media-amazon.com/images/I/618eUd8ERxL._AC_UF1000,1000_QL80_.jpg",
       "rate": 8.8,
+      "sinopsis": "Un hombre con una mente sencilla pero un gran corazón narra su increíble vida. Desde sus encuentros con figuras históricas hasta su amor por Jenny, Forrest vive momentos icónicos. Su inocencia lo lleva a influir en eventos clave de la historia.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -224,6 +237,7 @@
       "genre": "Drama",
       "image": "https://m.media-amazon.com/images/I/71UUUCm0qoL.jpg",
       "rate": 8.8,
+      "sinopsis": "Un hombre aburrido de su vida conoce a Tyler Durden, un carismático anarquista. Juntos crean un club de pelea clandestino que se transforma en un movimiento revolucionario. Pero la realidad oculta un perturbador secreto.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -241,6 +255,7 @@
       "genre": "Action, Adventure",
       "image": "https://m.media-amazon.com/images/I/81+xiUu5TXL.jpg",
       "rate": 8.7,
+      "sinopsis": "Luke Skywalker busca entrenarse con Yoda mientras el Imperio persigue a la Rebelión. Darth Vader revela un impactante secreto sobre su familia. La galaxia enfrenta tiempos oscuros y la lucha por la esperanza continúa.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -258,6 +273,7 @@
       "genre": "Action, Sci-Fi",
       "image": "https://m.media-amazon.com/images/I/71x7df0yZdL._AC_UF894,1000_QL80_.jpg",
       "rate": 8.7,
+      "sinopsis": "Neo descubre que la realidad que conoce es una simulación controlada por máquinas. Morfeo y Trinity lo reclutan para luchar contra el sistema. En su camino, descubre su verdadero destino como el elegido.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -275,6 +291,7 @@
       "genre": "Drama",
       "image": "https://m.media-amazon.com/images/I/51vLLaqn8dL._AC_UF894,1000_QL80_.jpg",
       "rate": 8.7,
+      "sinopsis": "Henry Hill crece en el mundo de la mafia, disfrutando de riqueza y poder. Sin embargo, la traición y la paranoia lo llevan a un inevitable colapso. Un retrato crudo del crimen organizado.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -292,6 +309,7 @@
       "genre": "Crime, Drama, Mistery",
       "image": "https://m.media-amazon.com/images/I/815VVAvdgDL._AC_UF894,1000_QL80_.jpg",
       "rate": 8.6,
+      "sinopsis": "Dos detectives investigan a un asesino en serie que basa sus crímenes en los siete pecados capitales. La investigación los lleva a descubrir una oscura y retorcida verdad. Un final impactante marca sus destinos.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -308,6 +326,7 @@
       "genre": "Crime, Drama, Suspense",
       "image": "https://m.media-amazon.com/images/I/A1ZJo47mGUL.jpg",
       "rate": 8.6,
+      "sinopsis": "Una joven agente del FBI debe obtener ayuda de Hannibal Lecter, un brillante pero peligroso asesino. Su misión es atrapar a un criminal que secuestra y mata mujeres. La tensión psicológica entre ambos es inolvidable.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -324,6 +343,7 @@
       "genre": "Crime, Drama",
       "image": "https://pics.filmaffinity.com/cidade_de_deus-120825156-large.jpg",
       "rate": 8.6,
+      "sinopsis": "En una favela de Brasil, dos amigos toman caminos opuestos: uno se convierte en fotógrafo y el otro en criminal. La violencia y la supervivencia marcan sus vidas. Una historia real sobre el impacto del crimen en la juventud.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -340,6 +360,7 @@
       "genre": "Drama",
       "image": "https://m.media-amazon.com/images/I/A1d4fD50-1L.jpg",
       "rate": 8.6,
+      "sinopsis": "Un grupo de soldados es enviado tras las líneas enemigas en la Segunda Guerra Mundial para rescatar a un soldado perdido. En su misión, enfrentan los horrores del conflicto. Un retrato realista y emotivo de la guerra.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -356,6 +377,7 @@
       "genre": "Comedy, Drama, Romance",
       "image": "https://m.media-amazon.com/images/I/91ZMLI4SVcL.jpg",
       "rate": 8.6,
+      "sinopsis": "Un padre judío usa su ingenio y amor para proteger a su hijo en un campo de concentración. Convierte la tragedia en un juego para evitarle el dolor. Una emotiva historia sobre la esperanza en tiempos oscuros.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -372,6 +394,7 @@
       "genre": "Adventure, Drama, Sci-Fi",
       "image": "https://m.media-amazon.com/images/I/71RvbgwwxFL._AC_UF1000,1000_QL80_.jpg",
       "rate": 8.6,
+      "sinopsis": "Un grupo de astronautas viaja a través de un agujero de gusano en busca de un nuevo hogar para la humanidad. En su travesía, enfrentan el tiempo, el espacio y la emoción. Un viaje épico sobre la exploración y el amor.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -388,6 +411,7 @@
       "genre": "Adventure, Drama",
       "image": "https://m.media-amazon.com/images/I/71Zb9pCs-iL._AC_UF894,1000_QL80_.jpg",
       "rate": 8.6,
+      "sinopsis": "Un pueblo contrata a siete samuráis para defenderse de los bandidos. A medida que se preparan para la batalla, la relación entre guerreros y aldeanos se profundiza. Una de las obras más influyentes del cine.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -404,6 +428,7 @@
       "genre": "Drama",
       "image": "https://m.media-amazon.com/images/I/41R9mgGiXDL.jpg",
       "rate": 8.5,
+      "sinopsis": "Un talentoso pianista judío lucha por sobrevivir en la Segunda Guerra Mundial. Mientras su mundo se desmorona, la música se convierte en su último refugio. Basada en hechos reales.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -420,6 +445,7 @@
       "genre": "Action, Adventure",
       "image": "https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/86/86/43/20154145.jpg",
       "rate": 8.4,
+      "sinopsis": "Ocho años después de su retiro, Batman regresa para enfrentar a Bane, un brutal terrorista. Gotham está al borde del colapso. Bruce Wayne debe encontrar la fuerza para volver a ser el héroe.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -436,6 +462,7 @@
       "genre": "Comedy, Drama, Suspense",
       "image": "https://m.media-amazon.com/images/I/716GvXDXB6L._AC_UF1000,1000_QL80_.jpg",
       "rate": 8.5,
+      "sinopsis": "Una familia pobre se infiltra en la vida de una familia rica, engañándolos para conseguir empleo. Sin embargo, su plan toma un giro inesperado y peligroso. Una crítica social llena de tensión y humor negro.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -452,6 +479,7 @@
       "genre": "Animation, Adventure",
       "image": "https://www.tuposter.com/pub/media/catalog/product/cache/71d04d62b2100522587d43c930e8a36b/p/o/poster_el_viaje_de_chiiro_poster_americano.png",
       "rate": 8.6,
+      "sinopsis": "Una niña queda atrapada en un mundo mágico y debe encontrar la forma de salvar a sus padres. En su viaje, enfrenta espíritus y desafíos para recuperar su libertad. Una historia visualmente impresionante y llena de magia.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -468,6 +496,7 @@
       "genre": "Mistery, Suspense",
       "image": "https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/70/36/50/20226878.jpg",
       "rate": 8.5,
+      "sinopsis": "Un fotógrafo confinado en su apartamento observa a sus vecinos y sospecha que uno de ellos ha cometido un asesinato. Su obsesión por descubrir la verdad lo pone en peligro. Un thriller de Hitchcock sobre el voyerismo y la paranoia.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -484,6 +513,7 @@
       "genre": "Terror, Mistery, Suspense",
       "image": "https://es.web.img3.acsta.net/r_1280_720/pictures/bzp/03/1603.jpg",
       "rate": 8.5,
+      "sinopsis": "Una mujer se refugia en un motel tras robar dinero, pero su encuentro con el enigmático Norman Bates cambiará su destino. La mítica escena de la ducha y su inesperado giro revolucionaron el cine de terror.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -500,6 +530,7 @@
       "genre": "Action, Crime, Drama",
       "image": "https://m.media-amazon.com/images/I/71G-19jX0qL._AC_UF894,1000_QL80_.jpg",
       "rate": 8.5,
+      "sinopsis": "Un asesino a sueldo solitario acoge a una niña huérfana que busca venganza por el asesinato de su familia. Entre ellos nace un vínculo especial, mientras se enfrentan a un policía corrupto.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -513,9 +544,10 @@
         "Jeremy Irons"
       ],
       "year": 1994,
-      "genre": "Animation, Aventure, Drama",
+      "genre": "Animation, Adventure, Drama",
       "image": "https://m.media-amazon.com/images/I/61jkTiX8NuL._AC_UF894,1000_QL80_.jpg",
       "rate": 8.5,
+      "sinopsis": "Simba, un joven león, huye tras la trágica muerte de su padre, Mufasa. Con el tiempo, descubre su verdadero destino y regresa para reclamar su lugar como rey. Una historia de valentía, pérdida y redención.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -532,6 +564,7 @@
       "genre": "Action, Adventure, Drama",
       "image": "https://images-eu.ssl-images-amazon.com/images/I/81wZMK+j-PL._AC_UL495_SR435,495_.jpg",
       "rate": 8.5,
+      "sinopsis": "Un general romano traicionado se convierte en esclavo y luego en gladiador, luchando por vengar la muerte de su familia y restaurar la justicia en Roma.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -548,6 +581,7 @@
       "genre": "Comedy, Drama",
       "image": "https://m.media-amazon.com/images/I/71SUYzCNh9L.jpg",
       "rate": 8.5,
+      "sinopsis": "Chaplin interpreta a un humilde barbero judío y a un dictador tirano en esta sátira contra el nazismo. Con humor y drama, la película lanza un poderoso mensaje de paz y humanidad.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -564,6 +598,7 @@
       "genre": "Drama",
       "image": "https://m.media-amazon.com/images/I/61bvIaw0pCL._AC_UF1000,1000_QL80_.jpg",
       "rate": 8.5,
+      "sinopsis": "Un joven baterista de jazz busca la perfección bajo la despiadada tutela de su instructor, quien lo empuja al límite con métodos brutales.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -580,6 +615,7 @@
       "genre": "Comedy, Drama, Romance",
       "image": "https://m.media-amazon.com/images/I/51N1q0uiemL._AC_UF894,1000_QL80_.jpg",
       "rate": 8.5,
+      "sinopsis": "Un empleado presta su apartamento a sus jefes para sus aventuras amorosas, pero todo cambia cuando se enamora de una de las amantes. Una comedia romántica con crítica social y momentos entrañables.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -596,6 +632,7 @@
       "genre": "Crime, Drama, Suspense",
       "image": "https://m.media-amazon.com/images/I/71FRGP7BKKL._AC_UF894,1000_QL80_.jpg",
       "rate": 8.5,
+      "sinopsis": "En el Chicago de la ley seca, un grupo de agentes liderados por Eliot Ness lucha contra el temido mafioso Al Capone con métodos poco convencionales.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -612,6 +649,7 @@
       "genre": "Drama, Terror",
       "image": "https://storage.googleapis.com/pod_public/750/130939.jpg",
       "rate": 8.4,
+      "sinopsis": "Un escritor y su familia se mudan a un hotel aislado donde fuerzas sobrenaturales y su propia locura amenazan con destruirlos.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -628,6 +666,7 @@
       "genre": "Crime, Drama, Sci-Fi",
       "image": "https://pics.filmaffinity.com/a_clockwork_orange-463192017-large.jpg",
       "rate": 8.3,
+      "sinopsis": "Un joven violento es sometido a un experimento de reeducación en una sociedad futurista donde el control y la brutalidad son moneda corriente.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -644,6 +683,7 @@
       "genre": "Comedy, Romance",
       "image": "https://m.media-amazon.com/images/I/715WUsZKz4L._AC_UF1000,1000_QL80_.jpg",
       "rate": 8.3,
+      "sinopsis": "Una joven soñadora de París decide cambiar la vida de los demás con pequeños actos de bondad, mientras descubre el amor de una manera inusual.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -660,6 +700,7 @@
       "genre": "Crime, Drama",
       "image": "https://www.originalfilmart.com/cdn/shop/files/TaxiDriver_french_r2000_original_film_art_5000x.webp?v=1684448325",
       "rate": 8.3,
+      "sinopsis": "Un exmarine convertido en taxista deambula por las noches de Nueva York, hundiéndose en la locura y planificando un acto violento para darle sentido a su vida.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -676,6 +717,7 @@
       "genre": "Drama",
       "image": "https://es.web.img3.acsta.net/medias/nmedia/18/83/10/34/20063920.jpg",
       "rate": 8.2,
+      "sinopsis": "En la España franquista, una niña descubre un misterioso laberinto donde un fauno la somete a pruebas para demostrar que es la reencarnación de una princesa.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -692,6 +734,7 @@
       "genre": "Comedy, Crime",
       "image": "https://m.media-amazon.com/images/I/A1Le+AaKcPL.jpg",
       "rate": 8.1,
+      "sinopsis": "Un vago amante del bowling es confundido con un millonario y se ve envuelto en un absurdo caso de secuestro. Con diálogos hilarantes y personajes excéntricos, es un clásico del humor absurdo.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -708,6 +751,7 @@
       "genre": "Crime, Suspense",
       "image": "https://m.media-amazon.com/images/I/51JDE+gBExL._AC_UF894,1000_QL80_.jpg",
       "rate": 8,
+      "sinopsis": "Tres historias de crimen, venganza y corrupción en una ciudad oscura y violenta. Con un estilo visual único, es un homenaje al cine negro con personajes duros y destinos trágicos.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -724,6 +768,7 @@
       "genre": "Drama, Mistery, Suspense",
       "image": "https://m.media-amazon.com/images/I/71V3sV3UqmL._AC_UF894,1000_QL80_.jpg",
       "rate": 8.1,
+      "sinopsis": "Un niño con la habilidad de ver espíritus busca ayuda en un psicólogo infantil. A medida que intentan comprender su don, descubren una verdad impactante. Un thriller con un giro inolvidable.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -740,6 +785,7 @@
       "genre": "Drama, Mistery, Suspense",
       "image": "https://cartelesmix.es/cartelesdecine/wp-content/uploads/2018/05/trucofinal06001.jpg",
       "rate": 8.5,
+      "sinopsis": "Dos magos rivales llevan su competencia a niveles extremos, obsesionados con descubrir y superar los trucos del otro. Una historia de engaño, sacrificio y obsesión con un giro inolvidable.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -756,6 +802,7 @@
       "genre": "Mistery, Suspense",
       "image": "https://pics.filmaffinity.com/memento-523889784-large.jpg",
       "rate": 8.4,
+      "sinopsis": "Un hombre con pérdida de memoria a corto plazo busca vengar la muerte de su esposa usando notas y tatuajes como pistas. La historia se narra en orden inverso, desafiando al espectador.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
@@ -772,9 +819,10 @@
       "genre": "Drama",
       "image": "https://m.media-amazon.com/images/I/51PY9b5hQGL._AC_UF894,1000_QL80_.jpg",
       "rate": 8.3,
+      "sinopsis": "Cuatro personas caen en un abismo de adicción y desesperación, persiguiendo sueños inalcanzables. La película muestra el impacto devastador de las drogas en sus vidas. Un viaje psicológico intenso y angustiante.",
       "isFavorite": false,
       "isWatched": false,
       "wantWatch": false
     }
-  ]
+  ] 
 }
